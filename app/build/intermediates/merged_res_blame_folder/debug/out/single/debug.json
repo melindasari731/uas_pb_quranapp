@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/drawable_icon_play_arrow_black_64dp.xml.flat",
+        "source": "com.app.uas_quran.app-main-31:/drawable/icon_play_arrow_black_64dp.xml"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/drawable_custom_bg_dialog.xml.flat",
+        "source": "com.app.uas_quran.app-main-31:/drawable/custom_bg_dialog.xml"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/drawable_custom_bg_radius10_grey.xml.flat",
+        "source": "com.app.uas_quran.app-main-31:/drawable/custom_bg_radius10_grey.xml"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.app.uas_quran.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/drawable_custom_bg_radius10_white.xml.flat",
+        "source": "com.app.uas_quran.app-main-31:/drawable/custom_bg_radius10_white.xml"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.app.uas_quran.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/drawable_custom_bg_radius10_green.xml.flat",
+        "source": "com.app.uas_quran.app-main-31:/drawable/custom_bg_radius10_green.xml"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "com.app.uas_quran.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/layout_audio_dialog.xml.flat",
+        "source": "com.app.uas_quran.app-main-31:/layout/audio_dialog.xml"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/layout_activity_detail_surah.xml.flat",
+        "source": "com.app.uas_quran.app-main-31:/layout/activity_detail_surah.xml"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/drawable_alquran7.jpg.flat",
+        "source": "com.app.uas_quran.app-main-31:/drawable/alquran7.jpg"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.app.uas_quran.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.app.uas_quran.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/drawable_images77.jpg.flat",
+        "source": "com.app.uas_quran.app-main-31:/drawable/images77.jpg"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.app.uas_quran.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.app.uas_quran.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/drawable_icon_search_black_24dp.xml.flat",
+        "source": "com.app.uas_quran.app-main-31:/drawable/icon_search_black_24dp.xml"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/layout_item.xml.flat",
+        "source": "com.app.uas_quran.app-main-31:/layout/item.xml"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/drawable_custom_bg_radius15_grey50.xml.flat",
+        "source": "com.app.uas_quran.app-main-31:/drawable/custom_bg_radius15_grey50.xml"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/drawable_icon_pause_black_64dp.xml.flat",
+        "source": "com.app.uas_quran.app-main-31:/drawable/icon_pause_black_64dp.xml"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/layout_ayat.xml.flat",
+        "source": "com.app.uas_quran.app-main-31:/layout/ayat.xml"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/drawable_custom_bg_radius45_green.xml.flat",
+        "source": "com.app.uas_quran.app-main-31:/drawable/custom_bg_radius45_green.xml"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.app.uas_quran.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.app.uas_quran.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.app.uas_quran.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.app.uas_quran.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/color_colordarkblue.xml.flat",
+        "source": "com.app.uas_quran.app-main-31:/color/colordarkblue.xml"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "com.app.uas_quran.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.app.uas_quran.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/color_colorwhite.xml.flat",
+        "source": "com.app.uas_quran.app-main-31:/color/colorwhite.xml"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/drawable_icon_play_button.xml.flat",
+        "source": "com.app.uas_quran.app-main-31:/drawable/icon_play_button.xml"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/drawable_custom_bg_main.xml.flat",
+        "source": "com.app.uas_quran.app-main-31:/drawable/custom_bg_main.xml"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.app.uas_quran.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.app.uas_quran.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/drawable_icon_close_black_36dp.xml.flat",
+        "source": "com.app.uas_quran.app-main-31:/drawable/icon_close_black_36dp.xml"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.app.uas_quran.app-main-31:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.app.uas_quran.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.app.uas_quran.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    }
+]
